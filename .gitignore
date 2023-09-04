@@ -2,3 +2,4 @@ downloads/openwrt-sdk-bcm27xx-bcm2711_gcc-12.3.0_musl.Linux-x86_64.tar.xz
 openwrt-sdk-bcm27xx-bcm2711_gcc-12.3.0_musl.Linux-x86_64/
 openwrt-toolchain-bcm27xx-bcm2711_gcc-12.3.0_musl.Linux-x86_64/
 test/insen-libs
+*.o
